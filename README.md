@@ -44,4 +44,4 @@ Fork this repo, checkout your personalized branch, add your presentation, then i
 
 **Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
 
-Make sure **not** to include working files, such as `.ai`, `.psd`, `.sketch`,or `.indd` files, in your submission.
+Make sure **not** to include working files, such as `.ai`, `.psd`, `.sketch`, or `.indd` files, in your submission.
