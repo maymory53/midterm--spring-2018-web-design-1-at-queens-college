@@ -28,7 +28,11 @@ The grid you settle on in step 2 should be used as the basis for the layout of a
 
 ## 4. Presentation
 
-With your wires and designs in place, compile your presentation as a PDF file called `presentation.pdf` or a Keynote file called `presentation.key` that showcases your wires and designs for desktop, tablet, and mobile. Also, show one grid for desktop, tablet, and mobile renderings. **See the Submission section below for instructions on how to include your project in this repo for submission.**
+With your wires and designs in place, compile your presentation as a PDF file called `presentation.pdf` or a Keynote file called `presentation.key` that showcases your wires and designs for desktop, tablet, and mobile. Make certain to show one grid for desktop, tablet, and mobile renderings.
+
+**Important note**: Ensure that, as you render individual pages, each page is as small in size as possible, because your final presentation file *must* be no larger than 5MB in size.
+
+See the **Submission** section below for instructions on how to include your project in this repo for submission.
 
 ## Due Date
 
