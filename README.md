@@ -44,7 +44,12 @@ See the **Submission** section below for instructions on how to include your pro
 
 ## Submission
 
-Fork this repo, checkout your personalized branch, add your presentation, then issue a pull request back into the original repo. Read [Submitting Assignments Using GitHub Desktop](http://code-warrior.github.io/tutorials/submitting-assignments-using-github-desktop/).
+1. Log in to GitHub.
+2. Fork this repo.
+3. Clone your fork.
+4. Checkout your personalized branch.
+5. Add your presentation.
+6. Issue a pull request back into the original repo, the one from which your fork was created. Read [Submitting Assignments Using GitHub Desktop](http://code-warrior.github.io/tutorials/submitting-assignments-using-github-desktop/).
 
 **Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
 
